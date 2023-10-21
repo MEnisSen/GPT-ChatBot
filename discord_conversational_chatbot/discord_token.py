@@ -1,0 +1,1 @@
+discord_token = 'INSERT-TOKEN-HERE'
